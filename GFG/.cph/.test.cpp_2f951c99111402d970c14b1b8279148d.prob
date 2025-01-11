@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"d:\\DOCUMENTS\\SANKET\\C-C++\\C++_kali\\GFG\\test.cpp","tests":[{"id":1671958066610,"input":"2 2\n3 1 5 4\n5 1 2 8 9 3\n0 1\n1 3","output":"5\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DOCUMENTS\\SANKET\\C-C++\\C++_kali\\GFG\\test.cpp","group":"local","local":true}

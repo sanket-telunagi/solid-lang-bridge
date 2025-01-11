@@ -1,0 +1,1 @@
+{"name":"Local: ReverseString","url":"/media/kaliuser/DATA/DOCUMENTS/SANKET/C-C++/C++_kali/LeetCode/ReverseString.cpp","tests":[{"id":1671513601190,"input":"5\nh e l l o","output":"o l l e h"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/kaliuser/DATA/DOCUMENTS/SANKET/C-C++/C++_kali/LeetCode/ReverseString.cpp","group":"local","local":true}

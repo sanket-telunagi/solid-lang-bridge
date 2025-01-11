@@ -1,0 +1,1 @@
+{"name":"Local: GFTSHP","url":"d:\\DOCUMENTS\\SANKET\\C-C++\\C++_kali\\CodeChef\\0_Questions\\GFTSHP.cpp","tests":[{"id":1689332718474,"input":"3\n1 4\n5\n3 15\n4 4 5\n3 10\n6 7 4","output":"1\n3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DOCUMENTS\\SANKET\\C-C++\\C++_kali\\CodeChef\\0_Questions\\GFTSHP.cpp","group":"local","local":true}
