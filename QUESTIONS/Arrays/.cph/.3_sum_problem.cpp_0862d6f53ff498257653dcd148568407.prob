@@ -1,0 +1,1 @@
+{"name":"Local: 3_sum_problem","url":"d:\\DOCUMENTS\\SANKET\\C-C++\\C++_kali\\QUESTIONS\\Arrays\\3_sum_problem.cpp","tests":[{"id":1691235473341,"input":"6\n-1 0 1 2 -1 -4","output":"-1 -1 2\n-1 0 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DOCUMENTS\\SANKET\\C-C++\\C++_kali\\QUESTIONS\\Arrays\\3_sum_problem.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: MAX_DIFF","url":"d:\\DOCUMENTS\\SANKET\\C-C++\\C++_kali\\CodeChef\\0_Questions\\MAX_DIFF.cpp","tests":[{"id":1689253298421,"input":"3\n3 1\n4 4\n2 3","output":"1\n4\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DOCUMENTS\\SANKET\\C-C++\\C++_kali\\CodeChef\\0_Questions\\MAX_DIFF.cpp","group":"local","local":true}

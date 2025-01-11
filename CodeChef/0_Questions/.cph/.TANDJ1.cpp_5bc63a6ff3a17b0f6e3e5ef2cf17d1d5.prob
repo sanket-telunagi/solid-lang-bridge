@@ -1,0 +1,1 @@
+{"name":"Local: TANDJ1","url":"d:\\DOCUMENTS\\SANKET\\C-C++\\C++_kali\\CodeChef\\0_Questions\\TANDJ1.cpp","tests":[{"id":1689322595054,"input":"3\n1 1 2 2 2\n1 1 2 3 4\n1 1 1 0 3","output":"Yes \nNo\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DOCUMENTS\\SANKET\\C-C++\\C++_kali\\CodeChef\\0_Questions\\TANDJ1.cpp","group":"local","local":true}

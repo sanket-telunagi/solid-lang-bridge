@@ -1,0 +1,1 @@
+{"name":"Local: LeetCode_242_Valid_Anagram","url":"d:\\DOCUMENTS\\SANKET\\C-C++\\C++_kali\\LeetCode\\LeetCode_242_Valid_Anagram.cpp","tests":[{"id":1690908758510,"input":"abcd dcab","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DOCUMENTS\\SANKET\\C-C++\\C++_kali\\LeetCode\\LeetCode_242_Valid_Anagram.cpp","group":"local","local":true}
