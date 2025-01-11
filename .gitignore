@@ -44,3 +44,8 @@ target/
 .settings/
 .idea/
 *.swp
+
+
+# cph files 
+.cph/
+*.prob
