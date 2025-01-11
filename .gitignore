@@ -10,7 +10,6 @@ __pycache__/
 env/
 venv/
 .venv/
-*.py
 
 # C++ files 
 # C++ build files
@@ -45,4 +44,3 @@ target/
 .settings/
 .idea/
 *.swp
-*.java
