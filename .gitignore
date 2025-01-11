@@ -46,3 +46,6 @@ target/
 .idea/
 *.swp
 *.java
+
+# cph file 
+*.cph
