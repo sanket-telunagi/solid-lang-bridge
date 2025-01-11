@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std ;
 
+
 // pair<int,vector<pair<int,int>>> solve (vector<int> & arr) {
 //     int swaps = 0 ;
 //     pair<int,vector<pair<int,int>>> ans ;

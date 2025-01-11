@@ -8,6 +8,7 @@ int main()
     while (t--)
     {
         int n , m ;
+        
         cin >> n >> m ;
 
         // equal amount of apples ans oranges 

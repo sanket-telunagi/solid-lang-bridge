@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std ;
 
+
 // void generate(vector<int> & nums, vector<int> & empty , vector<vector<int>> & ans,int n , int index = 0) {
 //     if (index >= nums.size()) {
 //         if (empty.size() == 3 && ((empty[0]*1LL*empty[1]) <= n) && ((empty[0]*1LL*empty[2]) <= n) && ((empty[2]*1LL*empty[1]) <= n)) {
