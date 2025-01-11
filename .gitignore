@@ -47,5 +47,7 @@ target/
 *.swp
 *.java
 
-# cph file 
-*.cph
+
+# .cph files 
+cph/
+*.prob
