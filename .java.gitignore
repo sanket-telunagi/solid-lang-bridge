@@ -1,0 +1,49 @@
+# Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+*.log
+*.sqlite3
+env/
+venv/
+.venv/
+
+# C++ files 
+# C++ build files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.out
+*.a
+*.lib
+*.ncb
+*.sdf
+*.suo
+*.vcxproj
+*.vcxproj.user
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+*.cpp
+*.c++
+
+# java build files 
+# Java files
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.iml
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.swp
+*.java
