@@ -1,1 +1,1 @@
-# Solid-lang-bridge java
+# Solid-lang-bridge
