@@ -30,8 +30,6 @@ venv/
 *.cmake
 CMakeCache.txt
 CMakeFiles/
-*.cpp
-*.c++
 
 # java build files 
 # Java files
@@ -47,3 +45,4 @@ target/
 .settings/
 .idea/
 *.swp
+*.java
